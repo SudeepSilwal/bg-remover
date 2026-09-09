@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://removebg.pages.dev/</loc>
+    <loc>https://removebg.sudeepsilwal.com.np/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://removebg.pages.dev/privacy-policy.html</loc>
+    <loc>https://removebg.sudeepsilwal.com.np/privacy-policy.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
   </url>
 
   <url>
-    <loc>https://removebg.pages.dev/terms.html</loc>
+    <loc>https://removebg.sudeepsilwal.com.np/terms.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
   </url>
 
 </urlset>
