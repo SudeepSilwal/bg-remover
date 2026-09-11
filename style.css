@@ -212,11 +212,11 @@ a {
   align-items: center;
   justify-content: center;
 
-  border: 1px dashed #303030;
+  /* border: 1px dashed #303030; */
 
   border-radius: 12px;
 
-  background: #151515;
+  /* background: #151515; */
 }
 
 
